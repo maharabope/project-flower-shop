@@ -1,0 +1,61 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: Lato;
+}
+
+header{
+    background-color: #E554731A;
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    margin: 0px 200px;
+    
+    
+}
+.banner-img{
+    
+    margin-top: 50px;
+    width: 500px;
+    height: auto;
+    
+
+}
+.banner-header{
+    font-family: Lato;
+    font-size: 70px;
+    font-weight: 800 ;
+}
+.banner-pg{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+button{
+    background-color: #E55473;;
+    color: white;
+    border-radius: 5px;
+    padding: 15px 35px;
+    border: none;
+    font-size: 20px;
+}
+
+.section1{
+    margin: 100px 200px;
+    text-align: center;
+}
+
+
+.picture3{
+    display: flex;
+    justify-content: space-around;
+}
+.image1{
+    background-color:  rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
